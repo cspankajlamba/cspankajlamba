@@ -18,6 +18,8 @@ I'm a passionate Full Stack Developer based in Noida, India. I love coding and c
 - 🔥 Design & Prototype : Figma, Canva
 - 🔧 Tools: VS Code, Git, GitHub
 
+### Realtime Stats
+[![Pankaj's realtime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cspankajlamba&layout=compact)]
 <!-- Recent Projects 
 ### Recent Projects
 
@@ -30,7 +32,6 @@ I'm a passionate Full Stack Developer based in Noida, India. I love coding and c
 
 - 📫 You can reach me at [cspankajlamba@gmail.com](mailto:cspankajlamba@gmail.com)
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/cspankajlamba/)
-<--- - 🌐 Visit my portfolio at [your-portfolio-url.com](https://www.your-portfolio-url.com) --->
 
 <!-- Footer -->
 ![Profile Views](https://komarev.com/ghpvc/?username=cspankajlamba&color=orange)
