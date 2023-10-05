@@ -1,8 +1,14 @@
 <!-- Title -->
 ## Hi there! 👋 I'm Pankaj Lamba
+<p align="center">
+  <img alt="Coding" width="250" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+</p>  
+
 
 <!-- Introduction -->
-I'm a passionate Full Stack Developer based in Noida, India. I love coding and contributing to open-source projects. Here's a glimpse of my work:
+I'm a passionate Full Stack Developer based in Noida, India. <br>
+I love coding and contributing to open-source projects & I am a active Freelancer and working with a various startups as Designer & Developer.
+
 
 <!-- GitHub Stats -->
 
