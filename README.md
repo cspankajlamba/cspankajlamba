@@ -1,5 +1,5 @@
 <!-- Title -->
-# Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm Pankaj Lamba
 
 <!-- Introduction -->
 I'm a passionate Full Stack Developer based in Noida, India. I love coding and contributing to open-source projects. Here's a glimpse of my work:
@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer based in Noida, India. I love coding and c
 - 🔥 Design & Prototype : Figma, Canva
 - 🔧 Tools: VS Code, Git, GitHub
 
-<!-- Recent Projects -->
+<!-- Recent Projects 
 ### Recent Projects
 
 - 🚀 [Project 1](https://github.com/your-project-1): Short description of the project.
