@@ -5,7 +5,9 @@
 I'm a passionate Full Stack Developer based in Noida, India. I love coding and contributing to open-source projects. Here's a glimpse of my work:
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cspankajlamba&show_icons=true&theme=radical)
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=cspankajlamba&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pankaj's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cspankajlamba&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!-- Languages -->
 ### Languages and Tools
