@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-# 💫 About Me:
+### 💫 About Me:
 Innovative Frontend Developer with one year experience building and maintaining responsive websites. Proficiency in HTML, CSS, Tailwind, Javascript, SQL.
 
-
-## 🌐 Socials:
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cspankajlamba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cspankajlamba&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cspankajlamba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cspankajlamba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
